@@ -1,5 +1,3 @@
-# PetMemories 반려동물 image2video 서비스
-
 # Image Colorization / Image2Video
 
 ## **1. Image Colorization**
